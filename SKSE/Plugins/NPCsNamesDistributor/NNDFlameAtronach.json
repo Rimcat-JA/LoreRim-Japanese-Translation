@@ -1,0 +1,14 @@
+{
+  "First": {
+    "Any": {
+      "Names": [
+        "マグドラ",
+        "ミナール"
+      ]
+    }
+  },
+  "Last": {
+    "Inherit": true
+  },
+  "Priority": "Class"
+}

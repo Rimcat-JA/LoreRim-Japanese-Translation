@@ -1,0 +1,13 @@
+{
+  "First": {
+    "Any": {
+      "Names": [
+        "ザイメル"
+      ]
+    }
+  },
+  "Last": {
+    "Inherit": true
+  },
+  "Priority": "Class"
+}

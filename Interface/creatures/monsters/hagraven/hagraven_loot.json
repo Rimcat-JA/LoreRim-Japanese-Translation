@@ -1,0 +1,28 @@
+{
+  "loot": [
+    [
+      "ハグレイヴンの羽",
+      "ingredient"
+    ],
+    [
+      "ハグレイヴンの爪",
+      "ingredient"
+    ],
+    [
+      "魂石",
+      "soulgem"
+    ],
+    [
+      "錬金術の材料",
+      "ingredient"
+    ],
+    [
+      "薬",
+      "potionhealth"
+    ],
+    [
+      "毒",
+      "poison"
+    ]
+  ]
+}

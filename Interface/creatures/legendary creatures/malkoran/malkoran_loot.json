@@ -1,0 +1,24 @@
+{
+  "loot": [
+    [
+      "リッチの心臓",
+      "ingredient"
+    ],
+    [
+      "骨の粉",
+      "ingredient"
+    ],
+    [
+      "呪文の書",
+      "magic"
+    ],
+    [
+      "黒魂石",
+      "soulgembig"
+    ],
+    [
+      "魂石",
+      "soulgem"
+    ]
+  ]
+}
